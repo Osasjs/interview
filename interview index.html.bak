@@ -1,0 +1,65 @@
+<!DOCTYPLE HTML>
+<html>
+     <head>
+        <tittle> </tittle>
+		
+		<style> 
+			       
+                   p.button1 {
+                     border: 2px solid red;
+                     border-radius: 5px;
+                     padding: 5px;
+}
+
+			
+			
+			</style>
+	 </head>
+            
+            <body>
+	            <a href="interview index.html"> <img src="mfb.jfif" alt="logo" width= 80px"></a>
+	               
+				   
+				   
+				   
+				   
+				<div>   
+				   
+				<nav>
+				   <ul>
+				   
+				       <li> <a href="about us.html"> ABOUT US</a></li>
+				       <li> <a href="open acount.html"> OPEN ACCOUNT</a> </li>
+					   <li> <a href="invest.html"> INVEST</a></li>
+					   <li> <a href="#"> HELP</a> </li>
+					   <li> <a href="article.html"> ARTICLE</a></li>
+				   
+				   </ul>
+				
+				
+				</nav>
+				</div>
+	 
+	            <br/>
+				<br/>
+				<br/>
+				    <div>
+				    <img src="fmb smartphone.jpg" alt="how Quickfund microfinance looks like on  smart device"  width= 700px>
+				
+				           <h1> EASY AND SIMPLE LOAN PROCESS</h>
+				            <h3> We have range of product for your loan solution</h3>
+					</div>
+				
+	 
+	            <br/>
+				<br/>
+				<br/>
+				     <button  border-radius:5px;><IMG SRC="IPHONE LOGO.jfif" width=25px>Download for IOS </button>
+					 <button  border-radius:5px; > <IMG SRC="WHASAPP LOGO.JFIF" width=25px>09090000000 </button>
+					 <button  border-radius:5px; > <IMG SRC="MOBILE PHONE LOGO.JPG" width=25px> Offline Banking <br/> *644*488#</button>
+					 <button  border-radius:5px; > <IMG SRC="GOOGLE PLAY.PNG" width=25px>Download for Andriod </button>
+	 
+	        </body>
+
+
+</html>
